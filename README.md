@@ -1,12 +1,9 @@
-# Lithium Battery Materials Predictor
+# Battery SOC Streamlit App
 
-A Streamlit app that predicts lithium battery material property based on:
-- Element
-- Transition metal presence
-- Density
+This is a lightweight deployment folder containing only the necessary files to host the Streamlit app.
 
-## To Run
-
+## Running Locally
 ```bash
-streamlit run streamlit_app.py
+pip install -r requirements.txt
+streamlit run app.py
 ```
