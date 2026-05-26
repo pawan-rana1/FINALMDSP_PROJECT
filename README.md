@@ -34,4 +34,4 @@ To mirror real vehicle limitations, this model avoids data leakage entirely. The
 ├── requirements.txt            # Cloud package installer manual
 ├── battery_soc_lstm_clean.keras # Trained 2,945-parameter LSTM model binary
 ├── lstm_scaler_clean.pkl       # Companion StandardScaler transformation mapping
-└── battery_soc_analysis.ipynb  # Engineering lab notebook (Data prep, EDA, training)
+└── main.ipynb  # Engineering lab notebook (Data prep, EDA, training)
